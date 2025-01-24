@@ -1,4 +1,4 @@
-# "Calculadora-con-interfaz"
+# "Calculadora-interfaz"
 # "Jhouran Del Toro"
 
 import tkinter as tk
